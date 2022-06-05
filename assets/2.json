@@ -1,0 +1,39 @@
+{
+    "name": "Number #0003",
+    "symbol": "FAM",
+    "description": "Collection of 10 numbers of NFTs on the blockchain. This is the number 3/10.",
+    "seller_fee_basis_points": 1000,
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Company",
+            "value": "Final AIM"
+        },
+        {
+            "trait_type": "Project",
+            "value": "Internal"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Demo"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "Gz3WeLaRMvFsGuq4UvzM6AUGkCQSrHt6V9SjD2DUVrqx",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "Robot Boy",
+        "family": "Cartoon"
+    }
+}
