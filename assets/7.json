@@ -1,7 +1,7 @@
 {
     "name": "Number #0008",
     "symbol": "FAM",
-    "description": "Collection of 10 numbers of NFTs on the blockchain. This is the number 8/10.",
+    "description": "Collection of 14 numbers of NFTs on the blockchain. This is the number 8/14.",
     "seller_fee_basis_points": 1000,
     "image": "7.png",
     "attributes": [
@@ -21,7 +21,7 @@
     "properties": {
         "creators": [
             {
-                "address": "Gz3WeLaRMvFsGuq4UvzM6AUGkCQSrHt6V9SjD2DUVrqx",
+                "address": "HGwM7w9Rbx9kbmjnNGgqRzfniWG525267NyA29n8Avpk",
                 "share": 100
             }
         ],

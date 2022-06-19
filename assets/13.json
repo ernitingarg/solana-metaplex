@@ -1,9 +1,9 @@
 {
-    "name": "Number #0001",
+    "name": "Number #0014",
     "symbol": "FAM",
-    "description": "Collection of 14 numbers of NFTs on the blockchain. This is the number 1/14.",
+    "description": "Collection of 14 numbers of NFTs on the blockchain. This is the number 14/14.",
     "seller_fee_basis_points": 1000,
-    "image": "0.png",
+    "image": "13.png",
     "attributes": [
         {
             "trait_type": "Company",
@@ -27,7 +27,7 @@
         ],
         "files": [
             {
-                "uri": "0.png",
+                "uri": "13.png",
                 "type": "image/png"
             }
         ]
